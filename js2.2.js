@@ -21,3 +21,4 @@ if (foundIndex === -1) {
   console.log('Элемент не найден');
 } else {
   console.log('Индекс элемента ' + index + ' в отсортированном массиве: ' + foundIndex);
+}
